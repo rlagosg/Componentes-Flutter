@@ -1,6 +1,6 @@
 # fl_components
 
-App de recursos, implementacion de componentes en flutter:
+App de recursos, implementación de componentes en flutter:
 
 - Listviews
 - ListTiles
