@@ -1,16 +1,20 @@
 # fl_components
 
-A new Flutter project.
+App de recursos, implementacion de componentes en flutter:
 
-## Getting Started
+- Listviews
+- ListTiles
+- Listas y map
+- Rutas
+- Json hacia mapas
+- Future Builder
+- Lectura de archivos JSON
+- Iconos
+- Imágenes
+- Avatars
+- Loadings
+- InfiniteScroll
+- Pull to refresh
+- Cards
+- Sliders
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
